@@ -3,7 +3,7 @@
 ### An interactive analytics dashboard built using Streamlit and PostgreSQL to analyze enrollment trends across states and districts in India.
 ### The dashboard provides dynamic filtering, KPI tracking, demographic distribution, and automated insights generation.
 
-### LinkedIn Post : https://www.linkedin.com/posts/sahil-shukre-269961281_dataanalytics-sql-postgresql-activity-7429258173951295490-kIzt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESpqjEBt-ICq9UdouW4BhU2ljeJ8PdKNv0
+###### LinkedIn Post : https://www.linkedin.com/posts/sahil-shukre-269961281_dataanalytics-sql-postgresql-activity-7429258173951295490-kIzt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESpqjEBt-ICq9UdouW4BhU2ljeJ8PdKNv0
 
 ## 🚀 Features:
 
