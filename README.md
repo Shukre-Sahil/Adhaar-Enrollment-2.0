@@ -68,8 +68,8 @@ The dataset contains:
 ### 4️⃣ Run Streamlit App
 `streamlit run streamlit_app.py`
 
-
-
+#### For making your own dashboard you can create views and index as per your work and then use them into your streamlit_app.py.
+#### Refer `view_creation.sql` and `indexes.sql` for your reference.
 ## 👤 Author
 
 **Your Name: Sahil Shukre**
