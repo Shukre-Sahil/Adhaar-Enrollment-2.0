@@ -73,6 +73,6 @@ The dataset contains:
 #### Refer `view_creation.sql` and `indexes.sql` for more clarification.
 ## 👤 Author
 
-**Your Name: Sahil Shukre**
+**Sahil Shukre**
 
 
